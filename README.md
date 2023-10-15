@@ -1,2 +1,9 @@
-# COMP380-TD267779-ASSIGN
-Computer Science Portfolio
+# COMP380 Project
+
+## Deliverables
+- Pilot study
+- Resume/CV
+
+## Technology Stack
+- NextJS
+- Tailwind
